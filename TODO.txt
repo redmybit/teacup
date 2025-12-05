@@ -1,3 +1,2 @@
-- quick window setup
-- Sprite class
+- more window properties
 - linkable events
