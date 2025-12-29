@@ -1,9 +1,9 @@
 """
-# Teacup
+## Teacup
 
-Pygame based library for python used for building games
+sdl2 based library for building windows applications quickly.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
-from .engine.window import Window
+from .engine import *
